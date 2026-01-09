@@ -28,6 +28,11 @@ body {
   background-color: transparent;
   transition: 0.5s;
 }
+.btn1 i{
+  font-size: 30px;
+  position: relative;
+  top: 5px;
+}
 .head i{
   font-size: 17px;
   color: #0ae967;
@@ -35,6 +40,7 @@ body {
    border-radius: 50px;
   /* background-color: #0ae967; */
 }
+.h
 .btn1:hover {
   cursor: pointer;
   background-color: #258c4f;
@@ -96,9 +102,10 @@ span {
 .head {
   margin-top: 20px;
   background-color: #fff;
-  color: #30b868;
+  color: #299757;
   padding: 5px 20px;
   font-size: 15px;
+  font-weight: 500;
   border-radius: 40px;
   cursor: pointer;
 }
